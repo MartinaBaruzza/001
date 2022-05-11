@@ -1,8 +1,23 @@
 [
   {
+    "name": "comefunziona",
+    "path": "/comefunziona",
+    "component": "/Users/admin/Desktop/001/pages/comefunziona.vue",
+    "chunkName": "pages/comefunziona",
+    "_name": "_7c72b50c"
+  },
+  {
+    "name": "inostrichef",
+    "path": "/inostrichef",
+    "component": "/Users/admin/Desktop/001/pages/inostrichef.vue",
+    "chunkName": "pages/inostrichef",
+    "_name": "_7f89cf38"
+  },
+  {
     "name": "index",
     "path": "/",
     "component": "/Users/admin/Desktop/001/pages/index.vue",
-    "chunkName": "pages/index"
+    "chunkName": "pages/index",
+    "_name": "_7fcc312e"
   }
 ]
